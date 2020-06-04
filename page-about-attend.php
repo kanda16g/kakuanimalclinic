@@ -19,7 +19,7 @@
                 <span class="root"><a href="<?php echo home_url(); ?>/">HOME</a></span><span class="current"><a href="#">当院について</a></span><span class="current02">獣医師出勤表</span>
             </div><!-- breadcrumb -->
             <div class="contbox">
-                <h2 class="contbox__title">獣医師出勤表</h2>
+                <h2 class="contbox__title">獣医師出勤表（2020年5月）</h2>
                 <p class="contbox__txt">表の上にマウスカーソルを乗せる（タップする）と<br class="break">セルがハイライトします。</p>
                 <table class="attend-table">
                     <thead>
